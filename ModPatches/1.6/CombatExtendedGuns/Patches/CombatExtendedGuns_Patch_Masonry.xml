@@ -7,4 +7,11 @@
     <percentage>25</percentage>
     <extraCostFactor>2</extraCostFactor>
   </Operation>
+  <!-- classicMortars off: game reads costListForDifficulty -->
+  <Operation Class="ArgonicCore.PatchOperations.PatchOperationDistributeCost">
+    <xpath>/Defs/ThingDef[defName="CE_Artillery_Howitzer"]/costListForDifficulty/costList/Steel</xpath>
+    <newMaterial>EM_CementMix</newMaterial>
+    <percentage>25</percentage>
+    <extraCostFactor>2</extraCostFactor>
+  </Operation>
 </Patch>
