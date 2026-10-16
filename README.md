@@ -1,7 +1,7 @@
 # More Mod Patches for Expanded Materials - Masonry
 
 [![Latest Release](https://img.shields.io/github/v/release/Sifu-Hotman/More-Mod-Patches-for-Expanded-Materials-Masonry?label=Latest%20Release)](https://github.com/Sifu-Hotman/More-Mod-Patches-for-Expanded-Materials-Masonry/releases)
-<!-- Steam Workshop badge goes here at publish -->
+[![Steam Workshop](https://img.shields.io/steam/subscriptions/3820640496?label=Steam%20Workshop&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820640496)
 
 ![Expanded Materials - Masonry: Mod Patches](Media/Badge_MMMas.png)
 
